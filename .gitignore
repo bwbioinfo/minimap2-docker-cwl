@@ -1,0 +1,12 @@
+# Ignore Nextflow work directory
+work/
+
+# Ignore Nextflow container directory
+.nextflow/
+.nextflow*
+
+# Ignore Nextflow log files
+*.log
+
+outputs/**/*
+results/**/*

@@ -1,0 +1,10 @@
+{
+    "input_directory": "nanotest/",
+    "output_directory": "results/",
+    "genome_fasta": "nanotest/GCF_000240185.1_ASM24018v2_genomic.fna",
+    "samples": [
+        {"id": "sample1", "reads": "nanotest/reads.fa.gz"}
+    ],
+    "threads": 8,
+    "memory": "16GB"
+}
